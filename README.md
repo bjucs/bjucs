@@ -1,3 +1,4 @@
+# Welcome! 
 I'm Brian Ju, a computer science student at the University of Maryland and software developer. 
 
 Here's some insight into my ongoing professional, academic, and personal life:
