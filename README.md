@@ -11,4 +11,4 @@ Here's some insight into my ongoing professional, academic, and personal life:
 
 *🏋️‍♂️I enjoy staying active, and am interested in many different sports! Feel free to ask me about any. 
 
-You can reach out to me with any questions at bju@umd.edu! 
+You can reach out to me with any questions at ```bju@umd.edu```! 
