@@ -3,7 +3,7 @@ I'm Brian Ju, a computer science student at the University of Maryland and softw
 
 Here's some insight into my ongoing professional, academic, and personal life:
 
-*🍌 I'm a current Junior Developer at Amazon
+*🍌 I'm a current Junior Software Developer at Amazon
 
 *☝️ Prior to Amazon, I interned at Capital One 🏛 and Stryker Medical 🩺
 
