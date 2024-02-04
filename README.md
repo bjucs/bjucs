@@ -3,9 +3,9 @@ I'm Brian Ju, a computer science student at the University of Maryland and softw
 
 Here's some insight into my ongoing professional, academic, and personal life:
 
-*🍌 I'm a current Junior Software Developer at Amazon
+*☁️ I'm an incoming Software Engineer Intern for Google BigQuery (part of Cloud) 
 
-*☝️ Prior to Amazon, I interned at Capital One 🏛 and Stryker Medical 🩺
+*☝️ Prior to Google, I interned at Amazon 🍌, Capital One 🏛 and Stryker Medical 🩺
 
 *🟪 I'm part of Phi Chi Theta (Alpha Mu chapter), a professional business fraternity at the University of Maryland. 
 
