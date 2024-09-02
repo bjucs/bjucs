@@ -3,7 +3,7 @@ I'm Brian Ju, a computer science student at the University of Maryland and softw
 
 Here's some insight into my ongoing professional, academic, and personal life:
 
-*☁️ I'm a 2024 Software Engineer Intern for Google BigQuery (a cloud-based data warehouse service).
+*☁️ I was a 2024 Software Engineering Intern for Google BigQuery (a cloud-based data warehouse service).
 
 *☝️ Prior to Google, I interned at Amazon 🍌, Capital One 🏛 and Stryker Medical 🩺
 
