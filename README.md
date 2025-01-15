@@ -7,6 +7,6 @@ Here's some insight into my ongoing professional, academic, and personal life:
 
 *☝️ Prior to Google, I interned at Amazon 🍌, Capital One 🏛 and Stryker Medical 🩺
 
-*🏋️‍♂️I enjoy staying active, and am interested in many different sports! Feel free to ask me about any. 
+*🏋️‍♂️I formerly did club swimming at the University of Maryland, and now enjoy indoor bouldering & weightlifting. 
 
 You can reach out to me with any questions at ```brianjq.2003@gmail.com```! 
